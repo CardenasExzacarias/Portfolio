@@ -1,0 +1,42 @@
+.max-height{
+    height: 100vh;
+}
+
+.login-contanier{
+    max-width: 40em;
+    max-height: 60em;
+    height: fit-content;
+    width: 20em;
+    min-width: 15em;
+    min-height: 25em;
+    border-radius: 0.5em;
+    -webkit-border-radius: 0.5em;
+    -moz-border-radius: 0.5em;
+    -ms-border-radius: 0.5em;
+    -o-border-radius: 0.5em;
+}
+
+.login-input{
+    width: 20em !important;
+}
+
+.fs-s{
+    font-size: 0.9em;
+}
+
+a{
+    color: #000 !important;
+    text-decoration: none !important;
+}
+
+.user-icon{
+    height: 200%;
+    width: 200%;
+}
+
+.form-title{
+    border-top-right-radius: 0.5em;
+    border-top-left-radius: 0.5em;
+    height: 4em;
+    width: 100%;
+}
