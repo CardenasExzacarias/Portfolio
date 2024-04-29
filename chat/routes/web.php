@@ -28,7 +28,6 @@ Route::post('/home/update', 'App\Http\Controllers\MessagesController@update')
 Route::post('/home/send', 'App\Http\Controllers\MessagesController@send')
     ->middleware('verifySession');
 
-/*Debería ser post no get*/
 Route::get('/logout', 'App\Http\Controllers\UserController@logout')
     ->middleware('verifySession');
 Route::get('/register', 'App\Http\Controllers\UserController@register');
@@ -58,6 +57,6 @@ Route::get('/found/{id}', 'App\Http\Controllers\MessagesController@get')
 //friends related
 Route::post('/add', 'App\Http\Controllers\FriendController@set')
     ->middleware('verifySession');
-/*Deberia ser delete no post*/
+
 Route::post('/delete', 'App\Http\Controllers\FriendController@set')
     ->middleware('verifySession');
