@@ -1,0 +1,201 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    color:#555;
+}
+
+label{
+    text-align: justify;
+    font-size: calc(0.95em + 0.1vh);
+    padding: 0.5em;
+}
+
+p{
+    text-align: justify;
+    margin-bottom: 0.5em;
+}
+
+hr{
+    margin: 2em 0;
+    background-color: #ddd;
+    border: 0.1em solid #ddd;
+}
+
+.container{
+    width: 60em;
+}
+
+.header-logo {
+    display: flex;
+    height: 9em;
+}
+
+.img-logo{
+    margin: auto;
+    width: 9em;
+    height: 9em;
+}
+
+.div-container{
+    margin: 1em 4%;
+    border: 0.1em solid #ccc;
+    border-radius: 0.25rem;
+}
+
+.div-number{
+    display: flex;
+    min-height: 7vh;
+    padding: 1vh 0em;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    border-bottom: 0.1em solid #ccc;
+    background-color: #eee;
+}
+
+.span-number{
+    display: flex;
+    color: #fff;
+    margin: auto;
+    font-size: calc(0.95em + 0.2vh);
+    font-weight: bold;
+    background-color: #28a745;
+    padding: 0.25em 0.4em;
+    border-radius: 0.25rem;
+}
+
+.div-form{
+    padding: 0.9em 4%;
+}
+
+.question-area{
+    margin: 0em 4%;
+}
+
+.question{
+    display: block;
+    font-weight: bold;
+}
+
+.option{
+    margin: 1vh;
+}
+
+.answer{
+    margin: 1em 0em;
+}
+
+.div-button{
+    text-align: center;
+}
+
+.form-button{
+    font-weight: 400;
+    border: 0.1em solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: calc(0.95em + 0.2vh);
+    border-radius: 0.25rem;
+}
+
+.form-button:disabled{
+    opacity: .65;
+}
+
+.activate{
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.div-footer{
+    display: block;
+    padding: 0.8em;
+    text-align: center;
+    border-bottom-left-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    border-top: 1px solid #ccc;
+    background-color: #eee;
+}
+
+.message{
+    text-align: center;
+    color:#6c757d;
+    margin: auto;
+    padding: 0.8em;
+    font-size: calc(0.95em + 0.1vh);
+}
+
+.input-text{
+    width: 2em;
+    margin: 0em;
+    outline: none;
+    border: none;
+    border-bottom: 0.1em solid #aaa;
+    background-color: #fff;
+}
+
+.input-text:hover{
+    border-bottom: 0.1em solid #28a745;
+}
+
+.input-text:focus{
+    border-bottom: 0.1em solid #28a745;
+}
+
+
+input[type='radio']:after {
+    min-width: calc(1.15em + 0.5vh);
+    min-height: calc(1.15em + 0.5vh);
+    border-radius: 1.15em;
+    top: -0.4em;
+    left: -0.4em;
+    position: relative;
+    background-color: #d1d3d1;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 0.2em solid white;
+}
+
+input[type='radio']:hover:after {
+    min-width: calc(1.15em + 0.5vh);
+    min-height: calc(1.15em + 0.5vh);
+    border-radius: 1.15em;
+    top: -0.4em;
+    left: -0.4em;
+    position: relative;
+    background-color: #48c765;
+    opacity: 0.65;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 0.2em solid white;
+}
+
+input[type='radio']:checked:after {
+    min-width: calc(1.15em + 0.5vh);
+    min-height: calc(1.15em + 0.5vh);
+    border-radius: 1.15em;
+    top: -0.4em;
+    left: -0.4em;
+    position: relative;
+    background-color: #48c765;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 0.2em solid white;
+}
+
+.select-radio:hover{
+    visibility: hidden;
+}
+
+.select-radio{
+    cursor: pointer;
+}
+
+.form-button:hover{
+    opacity: .65;
+}

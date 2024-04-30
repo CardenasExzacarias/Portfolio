@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/select.css"> 
+    <title>Selección</title>
+</head>
+<body>
+    <div class="container">
+        <div class="title-container"><h2 class="form-title">Seleccione una prueba</h2></div>
+        <form>
+            <div class="options">
+                <div class="select-container">
+                    <label class="label-title name">Nombre(s)</label>
+                    <input type="text" name="name" class="input-text input-name">
+                </div>
+                <div class="select-container">
+                    <label class="label-title name">A. Paterno</label>
+                    <input type="text" name="flastname" class="input-text input-name">
+                </div>
+                <div class="select-container">
+                    <label class="label-title name">A. Materno</label>
+                    <input type="text" name="mlastname" class="input-text input-name">
+                </div>
+                <div class="select-container">
+                    <label class="label-title name">Teléfono</label>
+                    <input type="text" name="tel" class="input-text tel">
+                </div>
+                <div class="select-container">
+                    <label class="label-title name">Correo</label>
+                    <input type="text" name="email" class="input-text mail">
+                </div>
+                <div class="select-container">
+                    <label class="label-title">Pruebas</label>
+                    <select name="test" id="test">
+                        <option value="mmpi2">MMPI-2</option>
+                        <option value="kostick">PAPI</option>
+                        <option value="moss">Moss</option>
+                        <option value="otis">Otis Sencillo</option>
+                        <option value="scidii">SCID-II</option>
+                    </select>
+                </div>
+                <div class="select-container">
+                    <label class="label-title">Género</label>
+                    <input type="radio" name="genre" class="select-genre" value="male"><label class="label-genre">Masculino</label>
+                    <input type="radio" name="genre" class="select-genre" value="female"><label class="label-genre">Femenino</label>
+                </div>
+            </div>
+            <div class="submit-button">
+                <input type="submit" value="Continuar">
+            </div>
+        </form>
+        <details class="des" id="des">
+            <summary>Descripción de la prueba</summary>
+            <h2 class="des-title" id="title">Inventario Multifasetico de la Personalidad (MMPI-2)</h2>
+            <p class="des-parraf" id="parraf">
+                El Minnesota Multiphasic Personality Inventory (MMPI) fue desarrollado a finales de la 
+                década de 1930 por Hathaway y MacKinley con el fin de obtener información clínica y 
+                diagnostica sobre pacientes psiquiátricos y médicos de manera general.
+            </p>
+        </details>
+    </div>
+    <script type="text/javascript" src="js/i.js"></script>
+</body>
+</html>

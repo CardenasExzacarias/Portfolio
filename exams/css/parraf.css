@@ -1,0 +1,22 @@
+.theme-title{
+    color: #28a745;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 0em;
+    margin: 1em;
+}
+
+.parraf-title{
+    color: #333;
+    font-size: 1.2em;
+    text-align: left;
+    padding: 0em;
+    margin: 0.5em;
+    margin-left: 1.5em;
+}
+
+.parraf{
+    text-align: justify;
+    margin: 0em 5%;
+    padding: 0.5em 0.8em;
+}

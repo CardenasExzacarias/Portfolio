@@ -1,0 +1,145 @@
+[11-Nov-2023 19:21:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /storage/ssd3/072/21466072/public_html/test/server/init.php on line 9
+[11-Nov-2023 19:21:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /storage/ssd3/072/21466072/public_html/test/server/init.php on line 10
+[11-Nov-2023 19:21:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /storage/ssd3/072/21466072/public_html/test/server/init.php on line 11
+[29-Dec-2023 00:41:40 America/Mexico_City] PHP Warning:  Undefined variable $text in /home3/soyjacec/exams.soyjace.com/mmpi2/sug.php on line 74
+[21-Jan-2024 10:08:35 America/Mexico_City] PHP Warning:  Undefined array key "total" in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 13
+[21-Jan-2024 10:08:35 America/Mexico_City] PHP Warning:  Undefined array key "question" in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 29
+[21-Jan-2024 10:08:35 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 29
+[21-Jan-2024 10:08:35 America/Mexico_City] PHP Warning:  Undefined array key "format" in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 29
+[21-Jan-2024 10:08:51 America/Mexico_City] PHP Warning:  Undefined array key "total" in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 13
+[21-Jan-2024 10:08:51 America/Mexico_City] PHP Warning:  Undefined array key "question" in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 29
+[21-Jan-2024 10:08:51 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 29
+[21-Jan-2024 10:08:51 America/Mexico_City] PHP Warning:  Undefined array key "format" in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 29
+[21-Jan-2024 10:17:23 America/Mexico_City] PHP Warning:  Undefined array key "total" in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 13
+[21-Jan-2024 10:17:23 America/Mexico_City] PHP Warning:  Undefined array key "question" in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 29
+[21-Jan-2024 10:17:23 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 29
+[21-Jan-2024 10:17:23 America/Mexico_City] PHP Warning:  Undefined array key "format" in /home3/soyjacec/exams.soyjace.com/server/verify.php on line 29
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Undefined array key "answer" in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 60
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 6
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 7
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 8
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 9
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 10
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 11
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Undefined array key "answer" in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 61
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 17
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 18
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 19
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 20
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 21
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Undefined array key "answer" in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 62
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 27
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 28
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 29
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 30
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 31
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 32
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 33
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 34
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Undefined array key "answer" in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 63
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 40
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 41
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 42
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 43
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 44
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Undefined array key "answer" in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 64
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 50
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 51
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 52
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 53
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 54
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/moss/scale.php on line 55
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Warning:  Undefined array key "answer" in /home3/soyjacec/exams.soyjace.com/moss/results.php on line 16
+[21-Jan-2024 12:54:07 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/soyjacec/exams.soyjace.com/server/template.php:67
+Stack trace:
+#0 /home3/soyjacec/exams.soyjace.com/moss/results.php(16): printArray(NULL, 10, '2.8em')
+#1 {main}
+  thrown in /home3/soyjacec/exams.soyjace.com/server/template.php on line 67
+[21-Jan-2024 23:43:11 America/Mexico_City] PHP Warning:  Undefined array key 566 in /home3/soyjacec/exams.soyjace.com/mmpi2/scale.php on line 48
+[22-Jan-2024 01:06:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/server/init.php on line 9
+[22-Jan-2024 01:06:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/server/init.php on line 10
+[22-Jan-2024 01:06:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/server/init.php on line 11
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Undefined array key "answer" in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 83
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 6
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 7
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 8
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 9
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 10
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 11
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 12
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 13
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 14
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 15
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 16
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 17
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 18
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 19
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 20
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 21
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 22
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 23
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 24
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 25
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 26
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 27
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 28
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 29
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 30
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 31
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 32
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 33
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 34
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 35
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 36
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 37
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 38
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 39
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 40
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 41
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 42
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 43
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 44
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 45
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 46
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 47
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 48
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 49
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 50
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 51
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 52
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 53
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 54
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 55
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 56
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 57
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 58
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 59
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 60
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 61
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 62
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 63
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 64
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 65
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 66
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 67
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 68
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 69
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 70
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 71
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 72
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 73
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 74
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 75
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 76
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 77
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 78
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/otis/scale.php on line 79
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Warning:  Undefined array key "answer" in /home3/soyjacec/exams.soyjace.com/otis/results.php on line 12
+[22-Jan-2024 03:02:18 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/soyjacec/exams.soyjace.com/server/template.php:67
+Stack trace:
+#0 /home3/soyjacec/exams.soyjace.com/otis/results.php(12): printArray(NULL, 10, 'auto')
+#1 {main}
+  thrown in /home3/soyjacec/exams.soyjace.com/server/template.php on line 67
+[26-Feb-2024 15:26:10 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/server/init.php on line 9
+[26-Feb-2024 15:26:10 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/server/init.php on line 10
+[26-Feb-2024 15:26:10 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/soyjacec/exams.soyjace.com/server/init.php on line 11
