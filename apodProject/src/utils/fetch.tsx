@@ -1,4 +1,5 @@
-const API_KEY = "fOwKReBfy7IjjU56OaPXeffc9K4lfFGKsINgexBp";
+//Necesario colocar un api_key proporcionado desde el sitio web https://api.nasa.gov/
+const API_KEY = "";
 const API_URL = "https://api.nasa.gov/planetary/apod";
 
 export default async (urlParams?: string) => {
